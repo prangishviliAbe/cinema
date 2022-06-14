@@ -22,6 +22,8 @@
     flex-wrap: wrap;
 }
 
+
+
 .header_line {
     border-top: 1px solid rgb(230, 230, 230);
     border-bottom: 1px solid  rgb(230, 230, 230);
@@ -54,4 +56,32 @@
     padding-right: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+
+.slider-section {
+    margin-top: 20px;
+}
+
+.slider-section img {
+    width: 100%;
+}
+
+
+.news-section {
+    margin-top: 20px;
+}
+
+.news-title {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif
+}
+
+.news-boxes .box {
+    max-width: 320px;
+    height: 220px;
+    width: 100%;
+    background: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
 }
